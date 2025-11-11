@@ -1,0 +1,175 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+ /* font-family:   'Satoshi', sans-serif; */
+  
+}
+.navbar{
+  /* background-color: #ff0707; */
+  padding-left: 40px;
+  padding-right: 100px;
+  /* font-family: sans-serif; */
+  margin: 1px;
+  /* font-weight: 200; */
+  font-family: 'Satoshi', sans-serif;
+  font-weight: 500;         /* Medium weight */
+  font-size: 16px;
+  letter-spacing: 0.5px;    /* Thoda spacing for clean look */
+  color: #000;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.nav-div{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 65px;
+  padding-top: 7pxpx;
+}
+.ul{
+  list-style: none;
+  display: flex;
+  color: #f3f3f3;
+}
+li a{
+  margin-top: px;
+  color: #191a26;
+  padding: 5px;
+  margin-right: 35px;
+}
+li{
+padding-top: 20px;
+}
+.ul button{
+  color:black ;
+  background-color:transparent ;
+  border-radius: 12px;
+  width: 180px;
+  height: 50px;
+  color:#191a26 ;
+  border-color: #191a26;
+  border: 1px solid;
+  padding: 5px;
+  margin: 0.2px;
+  cursor: pointer;
+  
+}
+.home{
+  /* position: fixed; */
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 85px 0px;
+  /* background: #eebfbf; */
+  
+  
+}
+.home-content{
+  
+  margin-bottom: 150px;
+  font-size: 20px;
+  padding-left: 30px;
+
+
+}
+..home-pic{
+  flex-direction: column;
+}
+
+
+.home-content button{
+  margin-left: px;
+  width: 210px;
+  height: 60px;
+  background-color:#191a26 ;
+  color: #f3f3f3;
+    font-family: 'Satoshi', sans-serif;
+  font-weight: 400;           /* Medium-bold for emphasis */
+  font-size: 16px;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding-right: 10px;
+  
+  
+
+}
+.home-content h1{
+    font-family: 'Satoshi', sans-serif;
+  font-weight: 700;   /* bold look like in Positivus */
+  letter-spacing: -0.5px;
+}
+.home-content p{
+    font-family: 'Satoshi', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.footer{
+  height: 30vh;
+  width: 100%;
+  /* padding-bottom: ; */
+}
+.parent-footer{
+  display: flex;
+  justify-content: space-between;
+  height: 30vh;
+  width: 100%;
+  margin-left: 80px;
+  margin-right: 70px;
+  padding-bottom: 100px;
+  /* background: #000; */
+  margin-bottom: 50px;
+
+}
+.footer-content{ 
+}
+.amzon{
+  width: 130px;
+  margin-bottom: 60px;
+  margin-left: 5vh;
+  margin-bottom: ;
+  
+  
+}
+.dribble{
+width: 180px;
+margin-bottom: 50px;
+margin-left: 7vh;
+padding-top: 100px;
+/* background: #b8a4a4; */
+}
+.hubspot{
+width: 180px;
+margin-bottom: 50px;
+margin-left: 7vh;
+margin-bottom: 75px;
+}
+.notion{
+      width: 180px;
+      margin-bottom: 50px;
+      margin-left: 7vh;
+      margin-top: 100px;
+      margin-bottom: 70px;
+      
+      
+      
+      
+
+}
+.netflix{
+  width: 100px;
+  margin-bottom: 50px;
+  margin-left: 7vh;
+  margin-bottom: 75px;
+}
+.zoom{
+  width: 130px;
+  margin-bottom: 50px;
+  margin-left: 7vh;
+  margin-bottom: 75px;
+  
+}
+
+
